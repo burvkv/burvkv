@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/burvkv" target="blank"><img src="https://img.shields.io/twitter/follow/burvkv?logo=twitter&style=for-the-badge" alt="burvkv" /></a> </p>
 
-- 🔭 I’m currently intern at **Trenkwalder TR**
+- I'm currently interning at **Trenkwalder TR**
 
-- 🌱 I’m currently learning **C#, Angular, React, Java, Sql - NoSql, Ts, Js, Html&Css**
+- I’m currently learning **C#, Angular, React, Java, Sql - NoSql, Ts, Js, Html&Css**
 
-- 📫 How to reach me **dev.burakarslan@gmail.com**
+- � Contact with me **dev.burakarslan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
