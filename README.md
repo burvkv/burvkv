@@ -3,8 +3,8 @@
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"><img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="390" style="max-width: 100%;"></a>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=burvkv&show_icons=true&theme=dark&title_color=ffffff&text_color=d8d8d8&bg_color=003140&locale=en"  width="500"  style="padding-top:"0"  alt="burvkv" /></p>
-<h1 align="center">Hi 👋, I'm Burak Arslan</h1>
-<h3 align="center">A passionate web developer from Turkey</h3>
+<h1 align="center">Burak Arslan</h1>
+<h3 align="center">Web Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/burvkv" target="blank"><img src="https://img.shields.io/twitter/follow/burvkv?logo=twitter&style=for-the-badge" alt="burvkv" /></a> </p>
 
@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/burvkv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="burvkv" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/burvkv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burvkv" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dev-burakarslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burvkv" height="30" width="40" /></a>
 <a href="https://instagram.com/burvkv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="burvkv" height="30" width="40" /></a>
 </p>
 
